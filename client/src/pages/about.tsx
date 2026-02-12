@@ -81,14 +81,14 @@ export default function About() {
             {/* Image PAYSAGE modéré (aspect 4/3) et largeur max moyenne */}
             <div className="overflow-hidden shadow-2xl aspect-[4/3] w-full max-w-md">
               <img 
-                src="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1600&auto=format&fit=crop" 
+                src="" 
                 alt="Saad en action" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
               />
             </div>
             {/* Légende */}
             <p className="text-center text-sm text-gray-500 italic">
-              Légende.
+              
             </p>
           </div>
 
